@@ -1,0 +1,4 @@
+1. Branches: master, index, bower, package, landing-ru, landing, answers (just done)
+2. git branch --merge shows master and answers
+3. 8 commits
+4. Removed lock, Added locked package, Added package
